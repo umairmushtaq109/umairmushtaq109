@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @umairmushtaq109
 - 👀 I’m interested in learning new things in Tech World
 - 🌱 I’m currently learning ASP .Net Core 
-- 💞️ I’m looking to collaborate on an ERP
+- 💞️ I’m looking to collaborate on .NET Core and Angular Projects
 - 📫 How to reach me (umairmushtaqreal@gmail.com)
 
 <!---
